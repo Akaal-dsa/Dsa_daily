@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0724-find-pivot-index) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -34,8 +36,14 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
