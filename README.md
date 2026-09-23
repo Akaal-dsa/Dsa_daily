@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
