@@ -7,7 +7,7 @@ public:
         }
         int maxSum = sum;
         for(int i = k; i < nums.size(); i++) {
-            sum = sum - nums[i - k] + nums[i];
+           sum =sum-nums[i-k]+nums[i];
             maxSum = max(maxSum, sum);
         }
 
