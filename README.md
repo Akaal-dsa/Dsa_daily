@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0643-maximum-average-subarray-i) |
@@ -31,5 +32,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
