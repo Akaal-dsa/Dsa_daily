@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0724-find-pivot-index) |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0643-maximum-average-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
