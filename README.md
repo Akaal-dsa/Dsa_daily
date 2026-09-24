@@ -23,6 +23,7 @@
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1929-concatenation-of-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0169-majority-element) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -98,4 +101,5 @@
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
