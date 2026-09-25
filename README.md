@@ -102,4 +102,8 @@
 | ------- |
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
