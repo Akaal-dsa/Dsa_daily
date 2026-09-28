@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0643-maximum-average-subarray-i) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -78,6 +81,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,4 +110,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0175-combine-two-tables) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
