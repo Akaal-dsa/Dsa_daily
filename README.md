@@ -34,6 +34,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Simulation
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -104,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Database
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
