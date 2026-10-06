@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Database
@@ -135,6 +136,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
