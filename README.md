@@ -61,6 +61,7 @@
 | [0283-move-zeroes](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -112,12 +113,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/2053-kth-distinct-string-in-an-array) |
