@@ -88,6 +88,7 @@
 | [0136-single-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0509-fibonacci-number) |
 ## String
 |  |
