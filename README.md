@@ -88,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
@@ -184,11 +185,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0141-linked-list-cycle) |
