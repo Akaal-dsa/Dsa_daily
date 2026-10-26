@@ -61,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0142-linked-list-cycle-ii) |
@@ -188,6 +189,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0142-linked-list-cycle-ii) |
