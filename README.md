@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -56,6 +57,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -131,6 +133,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0392-is-subsequence) |
