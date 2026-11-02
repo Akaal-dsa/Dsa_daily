@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1436-destination-city](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Akaal-dsa/Dsa_daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -135,6 +136,7 @@
 | [0338-counting-bits](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
