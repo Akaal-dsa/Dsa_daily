@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akaal-dsa/Dsa_daily/tree/master/0349-intersection-of-two-arrays) |
